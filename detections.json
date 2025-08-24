@@ -1,0 +1,39 @@
+{
+  "counts": {
+    "armored_vehicles": 3,
+    "troops": 0
+  },
+  "detections": [
+    {
+      "category": "armored_vehicle",
+      "location": [
+        9,
+        96,
+        59,
+        148
+      ],
+      "confidence": 0.6855413317680359
+    },
+    {
+      "category": "armored_vehicle",
+      "location": [
+        53,
+        74,
+        210,
+        203
+      ],
+      "confidence": 0.5973418354988098
+    },
+    {
+      "category": "armored_vehicle",
+      "location": [
+        220,
+        107,
+        404,
+        172
+      ],
+      "confidence": 0.5640156865119934
+    }
+  ],
+  "annotated_image": "sample1_annotated.jpg"
+}
